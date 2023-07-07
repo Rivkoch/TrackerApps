@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReadingTracker</string>
+    <string name="place_holder_question">Have you finished reading?</string>
+    <string name="place_holder_measure_progress">Enter number of pages you read</string>
+    <string name="to"> to read </string>
+    <string name="reach"> pages</string>
+
+</resources>

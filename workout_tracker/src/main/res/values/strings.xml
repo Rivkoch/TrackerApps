@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkoutTracker</string>
+    <string name="place_holder_question">Did you finish the workout?</string>
+    <string name="place_holder_measure_progress">Enter number of sets you done</string>
+    <string name="to"> to do </string>
+    <string name="reach"> sets</string>
+
+</resources>
